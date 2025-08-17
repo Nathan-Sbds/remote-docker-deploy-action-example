@@ -1,5 +1,6 @@
 # Custom CI/CD with GitHub and Docker
 
+
 I have a lot of side projects. Most of them are never really finished, but nevertheless I like to publish them to show them to friends and family.
  In most cases these projects are not worthy of some professional platform where to host them, so I end up using some free service like Heroku or similar.
  Of course, the free tier for these kind of services usually has some strong limitations that can be annoying, so I&#39;m always looking for something better.
